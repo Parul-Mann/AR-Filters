@@ -9,7 +9,7 @@ SparkAR Studio, Adobe Photoshop
 ## Environment Category Filter
 - Made in SparkAR Studio using person segmentation, camera detected background and 2D text overlay. 
 - Inbuilt assets of SparkAR Studio used. 
-- Published on Instagram and Facebook for both sharing option.  
+- Published on Instagram and Facebook for sharing option.  
 - Made to spread awareness about the 15th SDG, Life on Land.  
 - Wings of the Monarch Butterfly, which is endangered, added to a person with a message to promote sustainable use of terrestrial ecosystems and halt biodiversity loss. 
 
