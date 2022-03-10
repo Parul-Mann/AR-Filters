@@ -1,8 +1,8 @@
-**AR Filters**
+**AR Filters:**
 AR Filters made with Spark AR Studio, published on social to spread information about social causes. 
 
 
-**Tech Stacks** 
+**Tech Stacks:** 
 SparkAR Studio, Adobe Photoshop
 
 
