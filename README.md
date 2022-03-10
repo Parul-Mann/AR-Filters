@@ -1,5 +1,5 @@
 # AR-Filters
-AR Filters made with Spark AR Studio, published on social to spread information about social causes. 
+AR Filters made with Spark AR Studio, published on media platforms to spread awareness about social causes. 
 
 
 ## Tech Stacks 
