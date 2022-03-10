@@ -2,11 +2,11 @@
 AR Filters made with Spark AR Studio, published on social to spread information about social causes. 
 
 
-##Tech Stacks 
+## Tech Stacks 
 SparkAR Studio, Adobe Photoshop
 
 
-##Environment Category Filter
+## Environment Category Filter
 - Made in SparkAR Studio using person segmentation, camera detected background and 2D text overlay. 
 - Inbuilt assets of SparkAR Studio used. 
 - Published on Instagram and Facebook for both sharing option.  
@@ -15,7 +15,7 @@ SparkAR Studio, Adobe Photoshop
 
 
 
-##‘What are you’ Category Filter
+## ‘What are you’ Category Filter
 - Made in SparkAR Studio using randomize function and face detection. 
 - Assets customized in Adobe Photoshop and imported. 
 - Published on Instagram and Facebook for both sharing and video calling options. 
