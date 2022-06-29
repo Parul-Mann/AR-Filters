@@ -22,3 +22,10 @@ SparkAR Studio, Adobe Photoshop
 - Currently been used by over 13k individuals, increasing everyday.
 
 
+
+## Target Based Game Filter 
+- Made in SparkAR Studio with imported custom assests made in Canva. 
+- Set background using loop animationn, created falling targets.    
+- Used face tracking to control game-objects with head movements.  
+- Made hit target patch for target and game-object collisions, set score counter with js script. 
+
