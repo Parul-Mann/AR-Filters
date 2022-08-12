@@ -29,3 +29,10 @@ SparkAR Studio, Adobe Photoshop
 - Made hit target patch for target and game-object collisions, set score counter with js script. 
 
 
+## Multiple Target Tracking Filter [LINK](https://www.instagram.com/ar/1077189693004478/?ch=OWM5MzlhMWYxMTJhMGQ1ZGQ0NDBiNjIyY2ExNTVhNWE%3D) [DEMO LINK](https://drive.google.com/file/d/1K-x8hYIg3eBBYY4tWt0TdMdr5mwNeHIo/view?usp=sharing)
+- Made in SparkAR Studio with imported assets from Blender. 
+- Multiple picture based target trackers added.
+- Upon scanning the pictures, 3D amimation associated with the picture appears.
+
+
+
