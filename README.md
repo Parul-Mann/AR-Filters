@@ -29,3 +29,9 @@ SparkAR Studio, Adobe Photoshop
 - Used face tracking to control game-objects with head movements.  
 - Made hit target patch for target and game-object collisions, set score counter with js script. 
 
+
+
+## Multiple Target Tracking Filter 
+- Made in SparkAR Studio with imported assets from Blender. 
+- Multiple picture based target trackers added.
+- Upon scanning the pictures, 3D amimation associated with the picture appears.
