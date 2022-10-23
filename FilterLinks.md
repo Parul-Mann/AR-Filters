@@ -22,7 +22,7 @@ SparkAR Studio, Blender, Adobe Photoshop, Canva
 - Currently been used by over 13k individuals, increasing everyday.
 
 
-## Target Based Game Filter | [Filter Link](https://www.instagram.com/ar/580938693392241/?ch=YmI5ZTEyYTgwNzJhY2I4ZGYwMzUwOGU4YmVlZmU1Yzg%3D)
+## Target Based Game Filter | [Filter Link](https://www.facebook.com/fbcameraeffects/tryit/580938693392241/)
 - Made in SparkAR Studio with imported custom assests made in Canva. 
 - Set background using loop animationn, created falling targets.    
 - Used face tracking to control game-objects with head movements.  
@@ -33,6 +33,13 @@ SparkAR Studio, Blender, Adobe Photoshop, Canva
 - Made in SparkAR Studio with imported assets from Blender. 
 - Multiple picture based target trackers added.
 - Upon scanning the pictures, 3D amimation associated with the picture appears.
+
+
+## ‘What are you’ Category Filter | [Filter Link](https://www.facebook.com/fbcameraeffects/testit/1253238508824175/MmJjNWRjMjNhMWI2NmRjMzczNmI1NTI0NTAzNTJjZTE=/)
+- Made in SparkAR Studio using randomize function and face detection. 
+- Assets customized in Adobe Photoshop and imported. 
+- Published on Facebook for both sharing and video calling options. 
+- Made on the theme "Equality in India at 75 years of Independence", promoting gender equality.
 
 
 
